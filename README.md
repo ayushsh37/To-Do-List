@@ -21,7 +21,7 @@ A simple and intuitive TodoList application to help you manage your daily tasks 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ayush37/TodoLlist.git
+   git clone https://github.com/ayushsh37/TodoLlist.git
    cd TodoLlist
    ```
 
